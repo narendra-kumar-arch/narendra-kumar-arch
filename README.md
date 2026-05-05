@@ -25,7 +25,7 @@ Solutions Architect and Lead Engineer with 11+ years of experience designing and
 
 I care about clean system design, strong engineering culture, and shipping things that actually work at scale.
 
-- 🏦 Currently: **Technical Lead & Solutions Architect** @ [OakNorth Bank](https://www.oaknorth.com) (London, Remote)
+- 🏦 Currently: ** Senior Technical Lead & Solutions Architect** @ [OakNorth Bank](https://www.oaknorth.com) (London, Remote)
 - ☁️ Deep expertise in **AWS**, **Kubernetes**, **Microservices**, and **Event-Driven Architecture**
 - 🛠️ Full-stack across **Java**, **Python**, **TypeScript/Node.js**, **ReactJS**
 - 📐 Passionate about **system design**, **API design**, and **technical mentorship**
